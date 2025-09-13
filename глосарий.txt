@@ -5,3 +5,4 @@
 создали файл Readme
 создали файл index.html
 создали Branch Protection Rules
+Каждый создал по ветке с своими изменениями.
