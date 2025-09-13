@@ -4,3 +4,4 @@
 Дали роли 
 создали файл Readme
 создали файл index.html
+создали Branch Protection Rules
